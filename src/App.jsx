@@ -1,4 +1,4 @@
-// App.jsx
+
 import React, { useState } from 'react';
 import ExpenseForm from './components/ExpenseForm';
 import ExpenseTable from './components/ExpenseTable';

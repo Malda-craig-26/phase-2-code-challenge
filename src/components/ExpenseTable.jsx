@@ -1,4 +1,4 @@
-// components/ExpenseTable.jsx
+
 import React from 'react';
 
 function ExpenseTable({ expenses }) {
